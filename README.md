@@ -38,3 +38,6 @@ Implement the State Pattern to improve code maintainability and flexibility:
 * Introduce a reference to the current VendingMachineState object.
 * Delegate actions like selectItem, insertCoin, dispenseItem, and setOutOfOrder to the current state object through its corresponding methods.
 
+## UML Class Diagram
+![image](https://github.com/user-attachments/assets/a2e8f82a-4eaa-4f32-8259-8b42edaf1db6)
+
